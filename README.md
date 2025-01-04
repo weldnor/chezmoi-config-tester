@@ -15,7 +15,7 @@ Chezmoi Config Tester is a lightweight Docker-based tool for testing your [chezm
 3. Run the test script:
 
    ```bash
-   ./tests.sh
+   ./test.sh
    ```
 
    This will:
